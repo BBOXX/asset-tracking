@@ -1,0 +1,52 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "node js + rethinkdb + angular 4",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^2.6.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "joi": "^13.4.0",
+    "jsonwebtoken": "^8.2.2",
+    "karma-coverage": "^1.1.2",
+    "mock-require": "^3.0.2",
+    "moment": "^2.22.2",
+    "rethinkdb": "^2.3.3",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1"
+  },
+  "devDependencies": {
+    "browserify": "^16.2.2",
+    "bufferutil": "^3.0.5",
+    "istanbul": "^0.4.5",
+    "jasmine": "^3.1.0",
+    "jasmine-core": "^3.1.0",
+    "jasmine-node": "^1.15.0",
+    "jasmine-sinon": "^0.4.0",
+    "jasmine-ts": "^0.2.1",
+    "karma": "^2.0.3",
+    "karma-browserify": "^5.3.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-commonjs": "^1.0.0",
+    "karma-firefox-launcher": "^1.1.0",
+    "karma-jasmine": "^1.1.2",
+    "nodeunit": "^0.11.2",
+    "request": "^2.87.0",
+    "require": "^2.4.20",
+    "requirejs": "^2.2.0",
+    "rethink-mock": "^0.1.0",
+    "rethinkdb-mock": "^0.6.0",
+    "sinon": "^1.17.7",
+    "sinon-as-promised": "^4.0.3",
+    "underscore": "^1.9.1",
+    "utf-8-validate": "^4.0.2",
+    "watchify": "^3.11.0"
+  },
+  "scripts": {
+    "start": "node db.js",
+    "test": "istanbul cover ./node_modules/jasmine/bin/jasmine.js"
+  },
+  "author": "Chandrima Dasgupta",
+  "license": "ISC"
+}

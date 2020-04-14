@@ -1,0 +1,1203 @@
+[
+  {
+    "asset_id": "114fe7e30b946fe1",
+    "data": [
+      {
+        "asset_id": "114fe7e30b946fe1",
+        "asset_time": 1515407125073,
+        "connection_type": "3g",
+        "gps_time": 1515407038000,
+        "lat": -0.26896333333333333,
+        "lng": 34.97165666666667,
+        "power": 0.6499999761581421,
+        "signal": 18.507694244384766,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "119b23cc2a7c0f67",
+    "data": [
+      {
+        "asset_id": "119b23cc2a7c0f67",
+        "asset_time": 1519888423692,
+        "connection_type": "2g",
+        "gps_time": 1519889688000,
+        "lat": -1.1014616666666666,
+        "lng": 34.290193333333335,
+        "power": 0.38999998569488525,
+        "signal": 11.361905097961426,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "12219690437b2309",
+    "data": [
+      {
+        "asset_id": "12219690437b2309",
+        "asset_time": 1512713973809,
+        "connection_type": "offline",
+        "gps_time": 1512713416000,
+        "lat": -0.17242166666666667,
+        "lng": 34.91238,
+        "power": 0.8700000047683716,
+        "signal": 16.94000244140625,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "12219690437b2309",
+        "asset_time": 1512881181551,
+        "connection_type": "4g",
+        "gps_time": 1512880984000,
+        "lat": -0.7439916666666666,
+        "lng": 34.59245166666666,
+        "power": 0.9100000262260437,
+        "signal": 12.323808670043945,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "12219690437b2309",
+        "asset_time": 1512902920142,
+        "connection_type": "4g",
+        "gps_time": 1512902672000,
+        "lat": -0.673235,
+        "lng": 34.77290333333334,
+        "power": 0.3400000035762787,
+        "signal": 22.213634490966797,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "12219690437b2309",
+        "asset_time": 1512987718756,
+        "connection_type": "4g",
+        "gps_time": 1512987356000,
+        "lat": -0.7557833333333334,
+        "lng": 34.59856166666667,
+        "power": 0.6399999856948853,
+        "signal": 11.459090232849121,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "12219690437b2309",
+        "asset_time": 1513101791574,
+        "connection_type": "4g",
+        "gps_time": 1513101462000,
+        "lat": -0.7440300000000001,
+        "lng": 34.59249166666667,
+        "power": 0.3100000023841858,
+        "signal": 19.468181610107422,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "12219690437b2309",
+        "asset_time": 1513330098212,
+        "connection_type": "4g",
+        "gps_time": 1513329747000,
+        "lat": -0.7558466666666667,
+        "lng": 34.598595,
+        "power": 0.8199999928474426,
+        "signal": 13.423809051513672,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "12219690437b2309",
+        "asset_time": 1513330211518,
+        "connection_type": "4g",
+        "gps_time": 1513329747000,
+        "lat": -0.7558466666666667,
+        "lng": 34.598595,
+        "power": 0.8199999928474426,
+        "signal": 13.423809051513672,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "12219690437b2309",
+        "asset_time": 1513331627919,
+        "connection_type": "4g",
+        "gps_time": 1513331453000,
+        "lat": -0.7558466666666667,
+        "lng": 34.59858666666666,
+        "power": 0.7699999809265137,
+        "signal": 14.931818008422852,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "12219690437b2309",
+        "asset_time": 1514296027103,
+        "connection_type": "4g",
+        "gps_time": 1514295673000,
+        "lat": -0.8344366666666667,
+        "lng": 34.58089833333334,
+        "power": 0.6000000238418579,
+        "signal": 23.086959838867188,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "12219690437b2309",
+        "asset_time": 1514706611771,
+        "connection_type": "4g",
+        "gps_time": 1514706207000,
+        "lat": -0.7660366666666667,
+        "lng": 34.59670666666667,
+        "power": 0.6399999856948853,
+        "signal": 3.4700000286102295,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "12219690437b2309",
+        "asset_time": 1515124343711,
+        "connection_type": "4g",
+        "gps_time": 1515123820000,
+        "lat": -0.7440383333333334,
+        "lng": 34.59238833333333,
+        "power": 0.5400000214576721,
+        "signal": 14.727273941040039,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "1887cf8b79467e0",
+    "data": [
+      {
+        "asset_id": "1887cf8b79467e0",
+        "asset_time": 1516026580500,
+        "connection_type": "2g",
+        "gps_time": 1516026384000,
+        "lat": -0.09667,
+        "lng": 35.008516666666665,
+        "power": 0.5400000214576721,
+        "signal": 14.614285469055176,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "1dbe8d13a54816ff",
+    "data": [
+      {
+        "asset_id": "1dbe8d13a54816ff",
+        "asset_time": 1516605375026,
+        "connection_type": "2g",
+        "gps_time": 1516604949000,
+        "lat": -1.1719833333333334,
+        "lng": 30.410718333333328,
+        "power": 0.6700000166893005,
+        "signal": 31.571428298950195,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "1dbe8d13a54816ff",
+        "asset_time": 1519121382053,
+        "connection_type": "2g",
+        "gps_time": 1519120884000,
+        "lat": -1.1613333333333333,
+        "lng": 30.432678333333335,
+        "power": 0.18000000715255737,
+        "signal": 17.538461685180664,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "1dbe8d13a54816ff",
+        "asset_time": 1520585961853,
+        "connection_type": "3g",
+        "gps_time": 1520585612000,
+        "lat": -1.1194966666666666,
+        "lng": 30.427306666666663,
+        "power": 0.019999999552965164,
+        "signal": 19.571428298950195,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "1dbe8d13a54816ff",
+        "asset_time": 1520842888169,
+        "connection_type": "2g",
+        "gps_time": 1520842585000,
+        "lat": -1.1601333333333335,
+        "lng": 30.41815166666667,
+        "power": 0.15000000596046448,
+        "signal": 24.428571701049805,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "1dbe8d13a54816ff",
+        "asset_time": 1521043000622,
+        "connection_type": "3g",
+        "gps_time": 1521042676000,
+        "lat": -1.1129916666666666,
+        "lng": 30.44161,
+        "power": 0.8799999952316284,
+        "signal": 27.909090042114258,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "22c927001130f214",
+    "data": [
+      {
+        "asset_id": "22c927001130f214",
+        "asset_time": 1522443670184,
+        "connection_type": "3g",
+        "gps_time": 1522399911000,
+        "lat": -0.428475,
+        "lng": 34.92166666666667,
+        "power": 0.6499999761581421,
+        "signal": 27.150001525878906,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "22c927001130f214",
+        "asset_time": 1522774860165,
+        "connection_type": "3g",
+        "gps_time": 1522774383000,
+        "lat": -0.428535,
+        "lng": 34.921569999999996,
+        "power": 0.019999999552965164,
+        "signal": 17.850000381469727,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "24d1d602a4cc2aaa",
+    "data": [
+      {
+        "asset_id": "24d1d602a4cc2aaa",
+        "asset_time": 1512397094015,
+        "connection_type": "wifi",
+        "gps_time": 1512396980000,
+        "lat": -0.08414072352624996,
+        "lng": 34.75795292122089,
+        "power": 0.44999998807907104,
+        "signal": 13.947368621826172,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "2612a43bbfeb6d32",
+    "data": [
+      {
+        "asset_id": "2612a43bbfeb6d32",
+        "asset_time": 1514140526758,
+        "connection_type": "3g",
+        "gps_time": 1514139710000,
+        "lat": -0.4765466666666667,
+        "lng": 34.38263166666666,
+        "power": 0.6899999976158142,
+        "signal": 0.48260870575904846,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "2612a43bbfeb6d32",
+        "asset_time": 1514971223258,
+        "connection_type": "2g",
+        "gps_time": 1514970743000,
+        "lat": -0.4767716666666667,
+        "lng": 34.38264166666667,
+        "power": 0.3799999952316284,
+        "signal": 18.80908966064453,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "2612a43bbfeb6d32",
+        "asset_time": 1514971487988,
+        "connection_type": "3g",
+        "gps_time": 1514971468000,
+        "lat": -0.4767716666666667,
+        "lng": 34.382675,
+        "power": 0.4099999964237213,
+        "signal": 17.077272415161133,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "2612a43bbfeb6d32",
+        "asset_time": 1517634455201,
+        "connection_type": "3g",
+        "gps_time": 1517633877000,
+        "lat": -0.47456333333333334,
+        "lng": 34.38335666666667,
+        "power": 1,
+        "signal": 29.990907669067383,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "2d7f945061bc159f",
+    "data": [
+      {
+        "asset_id": "2d7f945061bc159f",
+        "asset_time": 1511171395717,
+        "connection_type": "4g",
+        "gps_time": 1511171129000,
+        "lat": 37.421998333333335,
+        "lng": -122.08400000000002,
+        "power": 1,
+        "signal": 0,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "461c26d43818950f",
+    "data": [
+      {
+        "asset_id": "461c26d43818950f",
+        "asset_time": 1513445624853,
+        "connection_type": "3g",
+        "gps_time": 1513446896000,
+        "lat": -1.061755,
+        "lng": 34.3827,
+        "power": 0.9599999785423279,
+        "signal": 15.960869789123535,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "501617af791e36e0",
+    "data": [
+      {
+        "asset_id": "501617af791e36e0",
+        "asset_time": 1512467658087,
+        "connection_type": "3g",
+        "gps_time": 1512467224000,
+        "lat": -1.9037316666666664,
+        "lng": 30.506845,
+        "power": 0.41999998688697815,
+        "signal": 5.75,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "50ec00e1eb14f298",
+    "data": [
+      {
+        "asset_id": "50ec00e1eb14f298",
+        "asset_time": 1513177506483,
+        "connection_type": "3g",
+        "gps_time": 1513177154000,
+        "lat": -0.26965,
+        "lng": 34.972004999999996,
+        "power": 0.10000000149011612,
+        "signal": 26.84762191772461,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "50ec00e1eb14f298",
+        "asset_time": 1513234795986,
+        "connection_type": "3g",
+        "gps_time": 1513234574000,
+        "lat": -0.269185,
+        "lng": 34.971725,
+        "power": 0.8199999928474426,
+        "signal": 28.777271270751953,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "578867b99d077249",
+    "data": [
+      {
+        "asset_id": "578867b99d077249",
+        "asset_time": 1513672652582,
+        "connection_type": "3g",
+        "gps_time": 1513672601000,
+        "lat": -0.33399999999999996,
+        "lng": 34.91795666666667,
+        "power": 0.6200000047683716,
+        "signal": 19.15237808227539,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "578867b99d077249",
+        "asset_time": 1514296590719,
+        "connection_type": "3g",
+        "gps_time": 1514296450000,
+        "lat": -0.3388966666666667,
+        "lng": 34.916803333333334,
+        "power": 0.3199999928474426,
+        "signal": 21.790908813476562,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "5e3755ccd271823f",
+    "data": [
+      {
+        "asset_id": "5e3755ccd271823f",
+        "asset_time": 1512818609924,
+        "connection_type": "3g",
+        "gps_time": 1512818531000,
+        "lat": 0.2201533333333333,
+        "lng": 34.812398333333334,
+        "power": 0.09000000357627869,
+        "signal": 11.70952320098877,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "5e3755ccd271823f",
+        "asset_time": 1512821004307,
+        "connection_type": "2g",
+        "gps_time": 1512820931000,
+        "lat": 0.22016666666666668,
+        "lng": 34.81239,
+        "power": 0.09000000357627869,
+        "signal": 10.578259468078613,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "5e3755ccd271823f",
+        "asset_time": 1516217021032,
+        "connection_type": "3g",
+        "gps_time": 1516216687000,
+        "lat": 0.22021666666666664,
+        "lng": 34.812508333333334,
+        "power": 0.20000000298023224,
+        "signal": 15.442105293273926,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "5e3755ccd271823f",
+        "asset_time": 1516217073785,
+        "connection_type": "3g",
+        "gps_time": 1516216687000,
+        "lat": 0.22021666666666664,
+        "lng": 34.812508333333334,
+        "power": 0.20000000298023224,
+        "signal": 15.442105293273926,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "5e3755ccd271823f",
+        "asset_time": 1516250682653,
+        "connection_type": "3g",
+        "gps_time": 1516250201000,
+        "lat": 0.22014166666666668,
+        "lng": 34.81245,
+        "power": 0.9599999785423279,
+        "signal": 10.866666793823242,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "5f5210ba96785fe5",
+    "data": [
+      {
+        "asset_id": "5f5210ba96785fe5",
+        "asset_time": 1516261912920,
+        "connection_type": "3g",
+        "gps_time": 1516261613000,
+        "lat": 0.4548833333333333,
+        "lng": 34.37949666666667,
+        "power": 0.6499999761581421,
+        "signal": 3.1666667461395264,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "5f5210ba96785fe5",
+        "asset_time": 1518027770820,
+        "connection_type": "3g",
+        "gps_time": 1518027629000,
+        "lat": 0.455145,
+        "lng": 34.37961166666666,
+        "power": 0.5699999928474426,
+        "signal": 4.652631759643555,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "655cc7195dc42e17",
+    "data": [
+      {
+        "asset_id": "655cc7195dc42e17",
+        "asset_time": 1513317528266,
+        "connection_type": "3g",
+        "gps_time": 1513317148000,
+        "lat": -0.162385,
+        "lng": 34.437675,
+        "power": 0.9100000262260437,
+        "signal": 12.74117660522461,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "70195b4a2a0f00eb",
+    "data": [
+      {
+        "asset_id": "70195b4a2a0f00eb",
+        "asset_time": 1515423644012,
+        "connection_type": "3g",
+        "gps_time": 1515423359000,
+        "lat": -0.07791666666666666,
+        "lng": 34.76207333333333,
+        "power": 0.46000000834465027,
+        "signal": 6.978946685791016,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "720710229adc23b1",
+    "data": [
+      {
+        "asset_id": "720710229adc23b1",
+        "asset_time": 1512716877285,
+        "connection_type": "3g",
+        "gps_time": 1512716815000,
+        "lat": -0.15377666666666664,
+        "lng": 34.829431666666665,
+        "power": 0.8500000238418579,
+        "signal": 18.954545974731445,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "720710229adc23b1",
+        "asset_time": 1514194457313,
+        "connection_type": "4g",
+        "gps_time": 1514194233000,
+        "lat": -0.38993,
+        "lng": 35.0125,
+        "power": 0.7400000095367432,
+        "signal": 14.44782543182373,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "7a3c0b4b69d9512",
+    "data": [
+      {
+        "asset_id": "7a3c0b4b69d9512",
+        "asset_time": 1512912779019,
+        "connection_type": "2g",
+        "gps_time": 1512919154000,
+        "lat": 0.18062999999999999,
+        "lng": 34.473211666666664,
+        "power": 1,
+        "signal": 11.459091186523438,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "7a3c0b4b69d9512",
+        "asset_time": 1512962116509,
+        "connection_type": "2g",
+        "gps_time": 1512968839000,
+        "lat": 0.180625,
+        "lng": 34.473173333333335,
+        "power": 0.6600000262260437,
+        "signal": 25.447370529174805,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "7a3c0b4b69d9512",
+        "asset_time": 1512964238947,
+        "connection_type": "3g",
+        "gps_time": 1512970787000,
+        "lat": 0.18060166666666666,
+        "lng": 34.473175,
+        "power": 0.5799999833106995,
+        "signal": 24.131818771362305,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "7a3c0b4b69d9512",
+        "asset_time": 1512965680623,
+        "connection_type": "2g",
+        "gps_time": 1512971987000,
+        "lat": 0.180615,
+        "lng": 34.47315833333334,
+        "power": 0.5799999833106995,
+        "signal": 21.33500099182129,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "81e53a4b459ba89b",
+    "data": [
+      {
+        "asset_id": "81e53a4b459ba89b",
+        "asset_time": 1518184334291,
+        "connection_type": "3g",
+        "gps_time": 1518184122000,
+        "lat": -1.2906016666666666,
+        "lng": 30.327125000000002,
+        "power": 0.5,
+        "signal": 16.153846740722656,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "82ad2e593ce86daf",
+    "data": [
+      {
+        "asset_id": "82ad2e593ce86daf",
+        "asset_time": 1513096547651,
+        "connection_type": "wifi",
+        "gps_time": 1513096462000,
+        "lat": 51.49349666666667,
+        "lng": -0.27907499999999996,
+        "power": 0.9700000286102295,
+        "signal": 3.5999996662139893,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "8393ea8c062e3027",
+    "data": [
+      {
+        "asset_id": "8393ea8c062e3027",
+        "asset_time": 1513240098628,
+        "connection_type": "3g",
+        "gps_time": 1513239610000,
+        "lat": -0.26893666666666666,
+        "lng": 34.971691666666665,
+        "power": 0.9399999976158142,
+        "signal": 8.143477439880371,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "8393ea8c062e3027",
+        "asset_time": 1513268301932,
+        "connection_type": "3g",
+        "gps_time": 1513267952000,
+        "lat": -0.23017166666666666,
+        "lng": 34.95721,
+        "power": 0.5600000023841858,
+        "signal": 13.080952644348145,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "8b6744c71153ff54",
+    "data": [
+      {
+        "asset_id": "8b6744c71153ff54",
+        "asset_time": 1517941033329,
+        "connection_type": "3g",
+        "gps_time": 1517940660000,
+        "lat": -0.376245,
+        "lng": 34.30526166666667,
+        "power": 0.3100000023841858,
+        "signal": 4.247368335723877,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "959f3064449eddf8",
+    "data": [
+      {
+        "asset_id": "959f3064449eddf8",
+        "asset_time": 1512849754978,
+        "connection_type": "2g",
+        "gps_time": 1512849236000,
+        "lat": -0.18168666666666666,
+        "lng": 34.385920000000006,
+        "power": 0.4300000071525574,
+        "signal": 12.366666793823242,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "9ab4b832946b87cc",
+    "data": [
+      {
+        "asset_id": "9ab4b832946b87cc",
+        "asset_time": 1512809305751,
+        "connection_type": "3g",
+        "gps_time": 1512809202000,
+        "lat": 0.14895333333333335,
+        "lng": 34.52918,
+        "power": 0.9700000286102295,
+        "signal": 5.622726917266846,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "9ab4b832946b87cc",
+        "asset_time": 1513093375359,
+        "connection_type": "3g",
+        "gps_time": 1513093338000,
+        "lat": 0.14872666666666667,
+        "lng": 34.52921833333333,
+        "power": 0.6600000262260437,
+        "signal": 8.59473705291748,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "9ab4b832946b87cc",
+        "asset_time": 1514197276754,
+        "connection_type": "3g",
+        "gps_time": 1514198367000,
+        "lat": 0.14827833333333332,
+        "lng": 34.52959666666666,
+        "power": 0.5199999809265137,
+        "signal": 22.37826156616211,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "9d22701dbb60e673",
+    "data": [
+      {
+        "asset_id": "9d22701dbb60e673",
+        "asset_time": 1517886987423,
+        "connection_type": "3g",
+        "gps_time": 1517886470000,
+        "lat": 0.554925,
+        "lng": 34.55108499999999,
+        "power": 1,
+        "signal": 12.223810195922852,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "9d22701dbb60e673",
+        "asset_time": 1517887071261,
+        "connection_type": "3g",
+        "gps_time": 1517886470000,
+        "lat": 0.554925,
+        "lng": 34.55108499999999,
+        "power": 1,
+        "signal": 12.223810195922852,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "9d22701dbb60e673",
+        "asset_time": 1517887109053,
+        "connection_type": "3g",
+        "gps_time": 1517886470000,
+        "lat": 0.554925,
+        "lng": 34.55108499999999,
+        "power": 1,
+        "signal": 12.223810195922852,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "9d22701dbb60e673",
+        "asset_time": 1517887146118,
+        "connection_type": "3g",
+        "gps_time": 1517886470000,
+        "lat": 0.554925,
+        "lng": 34.55108499999999,
+        "power": 1,
+        "signal": 12.223810195922852,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "9d22701dbb60e673",
+        "asset_time": 1517887240221,
+        "connection_type": "3g",
+        "gps_time": 1517887070000,
+        "lat": 0.5549566666666668,
+        "lng": 34.551365000000004,
+        "power": 1,
+        "signal": 8.2619047164917,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "9d22701dbb60e673",
+        "asset_time": 1517887275581,
+        "connection_type": "3g",
+        "gps_time": 1517887070000,
+        "lat": 0.5549566666666668,
+        "lng": 34.551365000000004,
+        "power": 1,
+        "signal": 8.2619047164917,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "9d22701dbb60e673",
+        "asset_time": 1517887340148,
+        "connection_type": "3g",
+        "gps_time": 1517887070000,
+        "lat": 0.5549566666666668,
+        "lng": 34.551365000000004,
+        "power": 1,
+        "signal": 8.2619047164917,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "9d22701dbb60e673",
+        "asset_time": 1518419890432,
+        "connection_type": "3g",
+        "gps_time": 1518419350000,
+        "lat": 0.5603666666666667,
+        "lng": 34.55951833333334,
+        "power": 0.8199999928474426,
+        "signal": 5.019230842590332,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "a1252f81300c989e",
+    "data": [
+      {
+        "asset_id": "a1252f81300c989e",
+        "asset_time": 1514801206112,
+        "connection_type": "4g",
+        "gps_time": 1514801018000,
+        "lat": -0.11377,
+        "lng": 34.75743166666667,
+        "power": 0.4099999964237213,
+        "signal": 26.4227294921875,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "a1252f81300c989e",
+        "asset_time": 1517551115497,
+        "connection_type": "4g",
+        "gps_time": 1517551052000,
+        "lat": -0.11345666666666668,
+        "lng": 34.75733,
+        "power": 0.5099999904632568,
+        "signal": 8.928571701049805,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "a160b2ed02163e4e",
+    "data": [
+      {
+        "asset_id": "a160b2ed02163e4e",
+        "asset_time": 1519062157730,
+        "connection_type": "2g",
+        "gps_time": 1519061888000,
+        "lat": -0.38387,
+        "lng": 34.45751666666667,
+        "power": 0.17000000178813934,
+        "signal": 18.636844635009766,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "a2bb9d5b4cbed3cf",
+    "data": [
+      {
+        "asset_id": "a2bb9d5b4cbed3cf",
+        "asset_time": 1517064761208,
+        "connection_type": "4g",
+        "gps_time": 1517064708000,
+        "lat": -0.8432700000000001,
+        "lng": 34.5643,
+        "power": 0.7099999785423279,
+        "signal": 21.39130401611328,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "a2c17806df65c802",
+    "data": [
+      {
+        "asset_id": "a2c17806df65c802",
+        "asset_time": 1512450959033,
+        "connection_type": "wifi",
+        "gps_time": 1512448024000,
+        "lat": -0.09786,
+        "lng": 34.753820000000005,
+        "power": 0.75,
+        "signal": 9.460000991821289,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "asset-01",
+    "data": [
+      {
+        "asset_id": "asset_id",
+        "lat": -1.93889,
+        "lng": 30.06691,
+        "time": "timestamp",
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "b52bbf8d0da29856",
+    "data": [
+      {
+        "asset_id": "b52bbf8d0da29856",
+        "asset_time": 1512564851320,
+        "connection_type": "4g",
+        "gps_time": 1512564284000,
+        "lat": -0.5466599999999999,
+        "lng": 34.45193833333334,
+        "power": 0.4399999976158142,
+        "signal": 9.777271270751953,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "b795446963a8bf87",
+    "data": [
+      {
+        "asset_id": "b795446963a8bf87",
+        "asset_time": 1515746258487,
+        "connection_type": "3g",
+        "gps_time": 1515746059000,
+        "lat": -0.7597216666666667,
+        "lng": 34.436805,
+        "power": 0.550000011920929,
+        "signal": 26.69091033935547,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "b795446963a8bf87",
+        "asset_time": 1518021959428,
+        "connection_type": "3g",
+        "gps_time": 1518021802000,
+        "lat": -0.7639183333333333,
+        "lng": 34.44221,
+        "power": 0.5199999809265137,
+        "signal": 7.147368431091309,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "bf934dbf39c7115a",
+    "data": [
+      {
+        "asset_id": "bf934dbf39c7115a",
+        "asset_time": 1522071014619,
+        "connection_type": "3g",
+        "gps_time": 1522070877000,
+        "lat": -0.3568266666666667,
+        "lng": 34.5489,
+        "power": 0.6000000238418579,
+        "signal": 6.963158130645752,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "c0d096c5363b3108",
+    "data": [
+      {
+        "asset_id": "c0d096c5363b3108",
+        "asset_time": 1512797078591,
+        "connection_type": "4g",
+        "gps_time": 1512796742000,
+        "lat": -0.11312499999999999,
+        "lng": 34.76891,
+        "power": 0.8600000143051147,
+        "signal": 7.142857074737549,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "c0d096c5363b3108",
+        "asset_time": 1513402835469,
+        "connection_type": "3g",
+        "gps_time": 1513402500000,
+        "lat": -0.5262616666666667,
+        "lng": 34.29414333333333,
+        "power": 0.9700000286102295,
+        "signal": 24.19999885559082,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "c0d096c5363b3108",
+        "asset_time": 1519187318863,
+        "connection_type": "3g",
+        "gps_time": 1519186847000,
+        "lat": -0.52601,
+        "lng": 34.29428666666667,
+        "power": 1,
+        "signal": 4.409090995788574,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "cb82bef8b815354b",
+    "data": [
+      {
+        "asset_id": "cb82bef8b815354b",
+        "asset_time": 1516688999660,
+        "connection_type": "2g",
+        "gps_time": 1516688889000,
+        "lat": -1.7614750000000001,
+        "lng": 30.389868333333332,
+        "power": 0.5,
+        "signal": 9.916666984558105,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "d64f34df44189f56",
+    "data": [
+      {
+        "asset_id": "d64f34df44189f56",
+        "asset_time": 1513857322333,
+        "connection_type": "3g",
+        "gps_time": 1513857147000,
+        "lat": 0.304265,
+        "lng": 34.20022166666667,
+        "power": 0.10999999940395355,
+        "signal": 10.139130592346191,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "d64f34df44189f56",
+        "asset_time": 1515488231122,
+        "connection_type": "3g",
+        "gps_time": 1515487670000,
+        "lat": 0.3042433333333333,
+        "lng": 34.20026666666667,
+        "power": 0.8700000047683716,
+        "signal": 8.209090232849121,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "d64f34df44189f56",
+        "asset_time": 1515682891485,
+        "connection_type": "3g",
+        "gps_time": 1515682891000,
+        "lat": 0.3042666666666667,
+        "lng": 34.200021666666665,
+        "power": 0.25,
+        "signal": 14.380000114440918,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "d64f34df44189f56",
+        "asset_time": 1517920591795,
+        "connection_type": "3g",
+        "gps_time": 1517920547000,
+        "lat": 0.30414166666666664,
+        "lng": 34.20003666666666,
+        "power": 0.20000000298023224,
+        "signal": 22.776187896728516,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "dad176033a47cbb2",
+    "data": [
+      {
+        "asset_id": "dad176033a47cbb2",
+        "asset_time": 1512564492865,
+        "connection_type": "4g",
+        "gps_time": 1512563951000,
+        "lat": -0.5466766666666667,
+        "lng": 34.451955,
+        "power": 0.550000011920929,
+        "signal": 8.723529815673828,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "daf4deafcb5d7fa",
+    "data": [
+      {
+        "asset_id": "daf4deafcb5d7fa",
+        "asset_time": 1513844492038,
+        "connection_type": "2g",
+        "gps_time": 1513843808105,
+        "lat": -2.365917444229126,
+        "lng": 29.446735382080078,
+        "power": 0.05999999865889549,
+        "signal": 7.714285850524902,
+        "type": "upgrade"
+      },
+      {
+        "asset_id": "daf4deafcb5d7fa",
+        "asset_time": 1514184202871,
+        "connection_type": "2g",
+        "gps_time": 1514183461678,
+        "lat": -2.3475821018218994,
+        "lng": 29.443788528442383,
+        "power": 0.8999999761581421,
+        "signal": 0,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "e441f624c292b155",
+    "data": [
+      {
+        "asset_id": "e441f624c292b155",
+        "asset_time": 1517995235146,
+        "connection_type": "3g",
+        "gps_time": 1517995157000,
+        "lat": -0.907565,
+        "lng": 34.46355166666667,
+        "power": 0.6600000262260437,
+        "signal": 9.722726821899414,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "f532708a0e78a1df",
+    "data": [
+      {
+        "asset_id": "f532708a0e78a1df",
+        "asset_time": 1517384009878,
+        "connection_type": "3g",
+        "gps_time": 1517383826000,
+        "lat": -0.5357883333333333,
+        "lng": 34.47046666666667,
+        "power": 0.7200000286102295,
+        "signal": 7.445454120635986,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "f8f8a593a39557e6",
+    "data": [
+      {
+        "asset_id": "f8f8a593a39557e6",
+        "asset_time": 1513358217876,
+        "connection_type": "wifi",
+        "gps_time": 1513358060000,
+        "lat": 51.493514999999995,
+        "lng": -0.2786983333333334,
+        "power": 1,
+        "signal": 10.214285850524902,
+        "type": "upgrade"
+      }
+    ]
+  },
+  {
+    "asset_id": "fcb6d885efedf594",
+    "data": [
+      {
+        "asset_id": "fcb6d885efedf594",
+        "asset_time": 1517075781615,
+        "connection_type": "3g",
+        "gps_time": 1517075779000,
+        "lat": -0.08087,
+        "lng": 34.763241666666666,
+        "power": 0.75,
+        "signal": 4.789999961853027,
+        "type": "upgrade"
+      }
+    ]
+  }
+]
