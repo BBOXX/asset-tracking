@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aXqXekrxVxOwb59wCKXS4j0OC4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -18,6 +21,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
@@ -31,7 +40,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586892326339</updated>
-      <workItem from="1586892327767" duration="140000" />
+      <workItem from="1586892327767" duration="993000" />
+      <workItem from="1587021715194" duration="42000" />
     </task>
     <servers />
   </component>
@@ -43,5 +53,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="113" y="3" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586892586260" />
+    <state x="314" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1587021715301">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="314" y="246" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1587021715301" />
   </component>
 </project>
